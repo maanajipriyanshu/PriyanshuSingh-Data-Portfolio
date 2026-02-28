@@ -1,4 +1,4 @@
-# PriyanshuSingh-Data-Portfolio# Priyanshu Singh – Data Analyst Portfolio
+# Priyanshu Singh – Data Analyst Portfolio
 
 ## About Me
 
