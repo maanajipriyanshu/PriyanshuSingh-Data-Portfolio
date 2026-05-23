@@ -18,6 +18,9 @@ Analysis of 69,000+ job postings to identify salary benchmarks and hiring trends
 Exploration of global salary trends across data roles using Python, SQL (BigQuery), and Power BI.
 🔗 https://github.com/maanajipriyanshu/global-data-salary-insights
 
+### Rossman Performane Insights
+End-to-end sales analytics on 844K+ European retail records using Python, PostgreSQL, and Power BI.
+🔗 https://github.com/maanajipriyanshu/rossmann-performance-insights
 
 ## Technical Skills
 
