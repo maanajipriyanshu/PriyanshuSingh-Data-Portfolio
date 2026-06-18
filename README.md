@@ -12,6 +12,8 @@ I am open to international opportunities and relocation.
 End-to-end sales analytics on 844K+ European retail records using Python, PostgreSQL, and Power BI.
 🔗 https://github.com/maanajipriyanshu/rossmann-performance-insights
 
+
+### India Job Market Analysis
 ### Malaysia Job Market Analysis
 
 Analysis of 69,000+ job postings to identify salary benchmarks and hiring trends across 26 industries.
