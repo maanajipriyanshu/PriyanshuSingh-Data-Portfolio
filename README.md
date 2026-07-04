@@ -11,7 +11,7 @@ I am open to international opportunities and relocation.
 ### Rossman Performane Insights
 End-to-end sales analytics on 844K+ European retail records using Python, PostgreSQL, and Power BI.
 🔗 https://github.com/maanajipriyanshu/rossmann-performance-insights
-
+### Predictive Analytics Project
 
 ### India Job Market Analysis
 ### Malaysia Job Market Analysis
