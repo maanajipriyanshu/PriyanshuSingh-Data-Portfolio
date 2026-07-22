@@ -28,7 +28,7 @@ Exploration of global salary trends across data roles using Python, SQL (BigQuer
 
 ## Technical Skills
 
-Python | SQL | Power BI | Excel | Data Cleaning | EDA | Dashboarding | BigQuery | Data Analysis | PostgreSQL | MySQL | NumPy | Pandas
+Python | SQL | Power BI | Excel | Data Cleaning | EDA | Dashboarding | BigQuery | Data Analysis | PostgreSQL | MySQL | NumPy | Pandas | DAX
 
 ## Contact
 
